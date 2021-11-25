@@ -1,0 +1,9 @@
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\bin\Debug\FileSplitter.exe.config
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\bin\Debug\FileSplitter.exe
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\bin\Debug\FileSplitter.pdb
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\obj\Debug\FileSplitter.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\obj\Debug\FileSplitter.Form1.resources
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\obj\Debug\FileSplitter.Properties.Resources.resources
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\obj\Debug\FileSplitter.csproj.GenerateResource.Cache
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\obj\Debug\FileSplitter.exe
+c:\users\richard\documents\visual studio 2015\Projects\FileSplitter\FileSplitter\obj\Debug\FileSplitter.pdb
